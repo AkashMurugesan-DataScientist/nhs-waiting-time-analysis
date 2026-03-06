@@ -1,0 +1,21 @@
+Hospital,Department,Patients_Waiting,Average_Wait_Time,Month,Year
+St Thomas,Cardiology,120,45,Jan,2024
+St Thomas,Orthopaedics,200,70,Jan,2024
+King's College,Neurology,90,40,Jan,2024
+Guy's Hospital,Cardiology,150,60,Feb,2024
+Guy's Hospital,Orthopaedics,210,75,Feb,2024
+St Thomas,Neurology,110,50,Feb,2024
+King's College,Cardiology,130,55,Mar,2024
+Guy's Hospital,Neurology,95,42,Mar,2024
+St Thomas,Orthopaedics,220,80,Mar,2024
+King's College,Orthopaedics,190,72,Apr,2024
+Guy's Hospital,Cardiology,140,58,Apr,2024
+St Thomas,Cardiology,160,62,Apr,2024
+King's College,Neurology,100,45,May,2024
+Guy's Hospital,Orthopaedics,230,85,May,2024
+St Thomas,Neurology,120,52,May,2024
+King's College,Cardiology,150,60,Jun,2024
+Guy's Hospital,Neurology,105,47,Jun,2024
+St Thomas,Orthopaedics,240,90,Jun,2024
+King's College,Orthopaedics,200,78,Jul,2024
+Guy's Hospital,Cardiology,155,63,Jul,2024
